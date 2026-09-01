@@ -1,5 +1,5 @@
-1.# HELLO
-2.This is my 1st repo!
+1. # HELLO
+2. This is my 1st repo!
 3. apple
 4. ball
 5. cat
